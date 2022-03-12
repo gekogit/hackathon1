@@ -6,4 +6,4 @@ Computer random word comes from list. On the screen comes shadowed ( ----). User
 2. War_game:
 Traditional rules. Two players. Random cards for each player in the beginning. 
 After war cards are coming back to the winner.
-Checking hazard rules after certain number of games.
+Checking hazard rules after certain number of games. GUI/visualization.
